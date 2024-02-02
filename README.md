@@ -32,3 +32,7 @@ torchrun --rdzv_backend=c10d --rdzv_endpoint=localhost:0 --nnodes=1 --nproc_per_
         --output-dir logs/{output_dir_name}
 
 ```
+Our code is based on
+1. [PyTorch image classification reference](https://github.com/pytorch/vision/tree/main/references/classification)
+2. [CLIP](https://github.com/openai/CLIP)
+3. [List Of English Words](https://github.com/dwyl/english-words)
