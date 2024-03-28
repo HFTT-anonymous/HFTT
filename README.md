@@ -1,4 +1,4 @@
-![framework](./image/framework.jpg)
+![framework](./image/framework.png)
 
 ## Pytorch version = 1.12.0
 
